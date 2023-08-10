@@ -1,0 +1,20 @@
+npm i styled-components
+npm i @types/styled-components -D
+
+vs code:
+    VS Code Styled-Components snippets
+    ESLint
+    vscode-styled-components
+
+npm i react-router-dom
+
+npm i phosphor-react
+
+npm i react-hook-form
+
+npm i @hookform/resolvers
+npm i zod
+
+npm i date-fns
+
+npm i immer
